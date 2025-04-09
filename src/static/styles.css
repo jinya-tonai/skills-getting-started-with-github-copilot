@@ -79,11 +79,17 @@ section h3 {
   padding-left: 20px;
   list-style-type: disc;
   color: #333;
+  font-size: 14px;
+  background-color: #f1f8e9; /* Light green background */
+  padding: 10px; /* Add padding for better spacing */
+  border: 1px solid #c5e1a5; /* Border to match the card */
+  border-radius: 5px; /* Rounded corners */
 }
 
 .activity-card ul li {
   margin-bottom: 5px;
   font-size: 14px;
+  color: #558b2f; /* Dark green text for participants */
 }
 
 .activity-card div {
