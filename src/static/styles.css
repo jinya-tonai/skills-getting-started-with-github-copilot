@@ -86,6 +86,19 @@ section h3 {
   font-size: 14px;
 }
 
+.activity-card div {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #f1f8e9;
+  border: 1px solid #c5e1a5;
+  border-radius: 5px;
+}
+
+.activity-card div strong {
+  color: #558b2f;
+  font-size: 16px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
